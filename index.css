@@ -1,0 +1,11 @@
+<link href="css/index1.css" rel="stylesheet">
+
+.footer {
+	background: #111;
+	font-size: 13px;
+	text-align: center;
+	color: #555555;
+	padding-top: 28px;
+	padding-bottom: 28px;
+	border-top:solid #303030;
+}
